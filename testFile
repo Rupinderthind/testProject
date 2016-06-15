@@ -1,0 +1,90 @@
+{
+result: {
+settings: [
+{
+title: "settings.top_links.account",
+link: "settings.account"
+},
+{
+title: "settings.top_links.business_information",
+link: "settings.business"
+},
+{
+title: "settings.top_links.users_practitioners",
+link: "settings.users"
+},
+{
+title: "settings.top_links.online_booking",
+link: "settings.online-booking"
+},
+{
+title: "settings.top_links.billable_items",
+link: "settings.billable-items"
+},
+{
+title: "settings.top_links.payments_types",
+link: "settings.payment-types"
+},
+{
+title: "settings.top_links.taxes",
+link: "settings.taxes"
+},
+{
+title: "settings.top_links.appointment_reminders",
+link: "settings.appointment-reminders"
+},
+{
+title: "settings.top_links.appointment_types",
+link: "settings.appointment"
+},
+{
+title: "settings.top_links.letter_templates",
+link: "settings.letter-templates"
+},
+{
+title: "settings.top_links.recall_types",
+link: "settings.recall-types"
+},
+{
+title: "settings.top_links.referral_types",
+link: "settings.referral-types"
+},
+{
+title: "settings.top_links.sms_setting",
+link: "settings.sms-setting"
+},
+{
+title: "settings.top_links.treatments_note_templates",
+link: "settings.treatment-notes"
+},
+{
+title: "settings.top_links.documents_printing",
+link: "settings.document-and-printing"
+},
+{
+title: "settings.top_links.discount_types",
+link: "settings.discount-types"
+},
+{
+title: "settings.top_links.zulu_subscription",
+link: "settings.subscription"
+},
+{
+title: "settings.top_links.invoice_setting",
+link: "settings.invoice"
+},
+{
+title: "settings.top_links.data_exports",
+link: "settings.data-imports"
+},
+{
+title: "settings.top_links.data_imports",
+link: "settings.data-imports"
+},
+{
+title: "settings.top_links.integration",
+link: "settings.integration"
+}
+]
+}
+}
